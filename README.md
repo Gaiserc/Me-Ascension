@@ -1,2 +1,2 @@
-# Me-Ascension
-A project that motive me to study
+# Minha Ascenção
+Projeto de RPG de hábitos
